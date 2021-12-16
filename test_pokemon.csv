@@ -1,0 +1,11 @@
+id,pokemon,species_id,height,weight,base_experience,type_1,type_2,attack,defense,hp,special_attack,special_defense,speed,ability_1,ability_2,ability_hidden,color_1,color_2,color_f,egg_group_1,egg_group_2,url_image,generation_id,evolves_from_species_id,evolution_chain_id,shape_id,shape
+1,bulbasaur,1,0.7,6.9,64,grass,poison,49,49,45,65,65,45,overgrow,NA,chlorophyll,#78C850,#A040A0,#81A763,monster,plant,1.png,1,NA,1,8,quadruped
+2,ivysaur,2,1,13,142,grass,poison,62,63,60,80,80,60,overgrow,NA,chlorophyll,#78C850,#A040A0,#81A763,monster,plant,2.png,1,1,1,8,quadruped
+3,venusaur,3,2,100,236,grass,poison,82,83,80,100,100,80,overgrow,NA,chlorophyll,#78C850,#A040A0,#81A763,monster,plant,3.png,1,2,1,8,quadruped
+4,charmander,4,0.6,8.5,62,fire,NA,52,43,39,60,50,65,blaze,NA,solar-power,#F08030,NA,NA,monster,dragon,4.png,1,NA,2,6,upright
+5,charmeleon,5,1.1,19,142,fire,NA,64,58,58,80,65,80,blaze,NA,solar-power,#F08030,NA,NA,monster,dragon,5.png,1,4,2,6,upright
+6,charizard,6,1.7,90.5,240,fire,flying,84,78,78,109,85,100,blaze,NA,solar-power,#F08030,#A890F0,#DE835E,monster,dragon,6.png,1,5,2,6,upright
+7,squirtle,7,0.5,9,63,water,NA,48,65,44,50,64,43,torrent,NA,rain-dish,#6890F0,NA,NA,monster,water1,7.png,1,NA,3,6,upright
+8,wartortle,8,1,22.5,142,water,NA,63,80,59,65,80,58,torrent,NA,rain-dish,#6890F0,NA,NA,monster,water1,8.png,1,7,3,6,upright
+9,blastoise,9,1.6,85.5,239,water,NA,83,100,79,85,105,78,torrent,NA,rain-dish,#6890F0,NA,NA,monster,water1,9.png,1,8,3,6,upright
+10,caterpie,10,0.3,2.9,39,bug,NA,30,35,45,20,20,45,shield-dust,NA,run-away,#A8B820,NA,NA,bug,NA,10.png,1,NA,4,2,squiggle
